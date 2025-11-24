@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Maroon 5 - Trang chính thức</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  
+  <header>
+    <nav>
+      <div class="logo">Maroon 5</div>
+      <ul>
+        <li><a href="#about">Giới thiệu</a></li>
+        <li><a href="#members">Thành viên</a></li>
+        <li><a href="#albums">Album</a></li>
+        <li><a href="#contact">Liên hệ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Maroon 5</h1>
+      <p>Ban nhạc pop rock huyền thoại từ Los Angeles</p>
+      <a href="#about" class="btn">Khám phá thêm</a>
+    </div>
+  </section>
+
+  
+  <section id="about">
+    <h2>Giới thiệu</h2>
+    <div class="about-content">
+      <div class="about-text">
+        <p>Maroon 5 được thành lập năm 1994 với tên gọi Kara's Flowers. Sau khi tái cấu trúc vào năm 2001, họ đổi tên thành Maroon 5 và nhanh chóng trở thành một trong những ban nhạc pop rock nổi tiếng nhất thế giới.</p>
+        <p>Với phong cách âm nhạc pha trộn giữa pop, funk và R&B, Maroon 5 đã tạo ra nhiều bản hit toàn cầu như "This Love", "She Will Be Loved", "Sugar" và "Moves Like Jagger".</p>
+        <p>Maroon 5 đã bán được hơn 135 triệu đĩa, trở thành một trong những nghệ sĩ âm nhạc bán chạy nhất toàn cầu. Họ đã nhận được nhiều giải thưởng, bao gồm Giải Grammycho Nghệ sĩ Mới Xuất sắc nhất năm 2006. Đĩa đơn "Moves Like Jagger" của họ được ghi nhận là một trong những bài hát được tải xuống nhiều nhất mọi thời đại.</p>
+      </div>
+      <div class="about-image">
+        <img src="images (5).jfif" alt="Maroon 5 Band" />
+      </div>
+    </div>
+  </section>
+
+  
+  <section id="members">
+    <h2>Thành viên</h2>
+    <div class="members">
+      <div class="member-card">
+        <div class="member-avatar">
+          <img src="Adam_Levine.jpg" alt="Adam Levine" />
+        </div>
+        <h3>Adam Levine</h3>
+        <p>Giọng ca chính, guitar</p>
+      </div>
+      <div class="member-card">
+        <div class="member-avatar">
+          <img src="images.jfif" alt="Jesse Carmichael" />
+        </div>
+        <h3>Jesse Carmichael</h3>
+        <p>Keyboard, guitar</p>
+      </div>
+      <div class="member-card">
+        <div class="member-avatar">
+          <img src="images (1).jfif" alt="James Valentine" />
+        </div>
+        <h3>James Valentine</h3>
+        <p>Lead guitar</p>
+      </div>
+      <div class="member-card">
+        <div class="member-avatar">
+          <img src="yen.jpg" alt="PJ Morton" />
+        </div>
+        <h3>PJ Morton</h3>
+        <p>Keyboard</p>
+      </div>
+      <div class="member-card">
+        <div class="member-avatar">
+          <img src="images (2).jfif" alt="Matt Flynn" />
+        </div>
+        <h3>Matt Flynn</h3>
+        <p>Trống</p>
+      </div>
+      <div class="member-card">
+        <div class="member-avatar">
+          <img src="images (3).jfif" alt="Sam Farrar" />
+        </div>
+        <h3>Sam Farrar</h3>
+        <p>Bass</p>
+      </div>
+    </div>
+  </section>
+!-- Albu
+  <ms Section -->
+  <section id="albums">
+    <h2>Album nổi bật</h2>
+    <div class="albums">
+      <div class="album-card">
+        <div class="album-cover">
+          <img src="images (4).jfif" alt="Songs About Jane" />
+        </div>
+        <div class="album-info">
+          <h3>Songs About Jane</h3>
+          <p>2002 - Album đầu tay với các hit như "This Love" và "She Will Be Loved".</p>
+        </div>
+      </div>
+      <div class="album-card">
+        <div class="album-cover">
+          <img src="Maroon_5_Overexposed.jpg" alt="V" />
+        </div>
+        <div class="album-info">
+          <h3>V</h3>
+          <p>2014 - Bao gồm các ca khúc nổi tiếng như "Sugar" và "Animals".</p>
+        </div>
+      </div>
+      <div class="album-card">
+        <div class="album-cover">
+          <img src="screenshot20171005at93937am.webp" alt="Red Pill Blues" />
+        </div>
+        <div class="album-info">
+          <h3>Red Pill Blues</h3>
+          <p>2017 - Đánh dấu sự hợp tác với nhiều nghệ sĩ như SZA và Cardi B.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+  <footer id="contact">
+    <h2>Liên hệ & Mạng xã hội</h2>
+    <div class="social-links">
+      <a href="https://www.facebook.com/maroon5" target="_blank">📘</a>
+      <a href="https://www.instagram.com/maroon5" target="_blank">📸</a>
+      <a href="https://twitter.com/maroon5" target="_blank">🐦</a>
+      <a href="https://www.youtube.com/user/Maroon5VEVO" target="_blank">▶️</a>
+    </div>
+    <p>&copy; 2025 Maroon 5. All rights reserved.</p>
+  </footer>
+<section id="history">
+  <h2>Lịch sử hình thành</h2>
+  <div class="history-content">
+    <p>Maroon 5 bắt đầu sự nghiệp dưới tên Kara’s Flowers vào năm 1994. Sau khi thay đổi định hướng âm nhạc, nhóm đổi tên thành Maroon 5 vào năm 2001 và phát hành album đầu tay “Songs About Jane”, đánh dấu bước ngoặt lớn.</p>
+    <p>Trải qua nhiều năm, Maroon 5 liên tục thay đổi và phát triển để thích nghi với dòng chảy âm nhạc đại chúng, trở thành một trong những ban nhạc thành công nhất thế giới.</p>
+  </div>
+</section>
+<section id="tour">
+  <h2>Tour & Concerts</h2>
+  <div class="tour-list">
+    <div class="tour-card">
+      <h3>World Tour 2015</h3>
+      <p>Biểu diễn tại hơn 30 quốc gia với hơn 3 triệu người tham dự.</p>
+    </div>
+    <div class="tour-card">
+      <h3>Red Pill Blues Tour (2018)</h3>
+      <p>Tour toàn cầu kéo dài 8 tháng với nhiều sân vận động lớn.</p>
+    </div>
+    <div class="tour-card">
+      <h3>2022 Global Tour</h3>
+      <p>Cháy vé tại nhiều thành phố lớn như Tokyo, Seoul, Paris và Rio.</p>
+    </div>
+  </div>
+</section>
+<section id="awards">
+  <h2>Giải thưởng</h2>
+  <div class="awards-list">
+    <div class="award-card">
+      <h3>Grammy Awards</h3>
+      <p>3 giải Grammy, bao gồm Nghệ sĩ mới xuất sắc nhất.</p>
+    </div>
+    <div class="award-card">
+      <h3>Billboard Music Awards</h3>
+      <p>4 giải thưởng Billboard danh giá.</p>
+    </div>
+    <div class="award-card">
+      <h3>American Music Awards</h3>
+      <p>3 lần chiến thắng hạng mục Ban nhạc được yêu thích nhất.</p>
+    </div>
+  </div>
+</section>
+<section id="gallery">
+  
+  <div class="gallery-grid">
+  </div>
+</section>
+
+</body>
